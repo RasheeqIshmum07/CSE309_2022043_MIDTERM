@@ -1,0 +1,87 @@
+.jumbotron {
+    color:rgb(244, 244, 244);
+    background-color: rgb(54, 53, 53);
+  background-size: contain;
+  
+
+}
+
+.container {
+    border: 50px;
+    border-color: 3px solid red;
+    padding: 50px;
+    margin: 10px;
+    text-align: center ;
+}
+.container-fluid {
+        border: 100px;
+        padding: 0px;  
+}
+#section1 {
+    height: 900px;
+    background-color: rgb(54, 53, 53);
+    text-align: center;
+}
+.text-lg-center {
+    position:absolute;
+    top: 100%;
+    left: 55%;
+    transform: translate(-60%, -60%);
+  
+}
+.text-lg-end {
+    position: absolute;
+    top: 60%;
+    left: 52%;
+    transform: translate(-60%, -60%);
+  
+}
+.img-responsive{
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+    position: relative;
+    padding: 10px;
+    top: 70%;
+    right: 0%;
+}
+#section2 {
+    height: 900px;
+    background-color: rgb(54, 53, 53);
+    text-align: center;
+
+}
+.img-fluid{
+    position: absolute;
+    top: 70%;
+    left: 52%;
+    transform: translate(-60%, -60%);
+    width: 200px;
+    height: 200px;
+    
+}
+.fa {
+    padding: 10px;
+    font-size: 40px;
+    width: 50px;
+    text-align: center;
+    text-decoration: dotted;
+    margin: 3px 2px;
+    margin-right: 25pt;
+    
+}
+.fa-facebook {
+    background-color: rgb(54, 53, 53);
+    color: rgb(255, 255, 255);
+    
+}
+
+.fa-linkedin {
+    background-color: rgb(54, 53, 53);
+    color: rgb(255, 255, 255);
+}
+.fa-github{
+    background-color: rgb(54, 54, 53);
+    color: rgb(255, 255, 255);
+}
+}
